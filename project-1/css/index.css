@@ -1,0 +1,9 @@
+/* Step 1: Write a selectir. What is a selector? Figure out every HTML element you want to style */
+
+h1 {
+    font-family: 'Anton', sans-serif; color:coral; 
+}
+h2{
+    font-family: 'Dancing Script', cursive; color:darkgreen;
+}
+a:hover {color:pink}
